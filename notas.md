@@ -2,8 +2,14 @@
 O projeto é uma prática sobre os conhecimentos adquiridos através do curso. Visando o conceito de ETL com python e mysql, esse projeto é um resumo sobre O vício nas redes sociais em estudantes. Fonte de dados coletado no kaggle, que é um site para coletar dados para pesquisas. A fonte de dados original é acessada no seguinte link: [Base de dados](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships).
 
 
+# Versionamento do código
+Estou usando o versionamento de código com git 
+
+
 # Base
 A base consiste em 13 colunas, contendo respostas de uma pesquisa realizado em pessoas de 16 a 25 anos. A pesquisa foi realizada em vários países e indica o uso das redes sociais nessas pessoas.
+
+
 
 # Tecnologias
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
